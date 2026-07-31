@@ -5,8 +5,8 @@
 %global crate alphanumeric-sort
 
 Name:           rust-%{crate}
-Version:        1.0.11
-Release:        2%{?dist}
+Version:        1.5.8
+Release:        1%{?dist}
 Summary:        Sort order for files and folders whose names contain numerals
 
 # Upstream license specification: MIT
